@@ -1,0 +1,4 @@
+ACN   Acn no is given when you create account
+pass   that you give
+
+open new account and fill all the details to open new acc
